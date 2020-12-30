@@ -28,10 +28,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9da5be-47b0-4522-b05d-3ebf2eb4ea17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DoAn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/DetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/IndexActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/ResultSearchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/adapter/RecentsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/adapter/TopHotelsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/database/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/model/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/model/TopHotelsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/book_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hinh15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/hotel_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_result_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/recent_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/top_hotels_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/model/RecentsData.java" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/java/com/example/findhotel/model/RecentsData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_email.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_email.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_password.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_username.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/ic_username.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/drawable/round_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/round_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/drawable/round_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/drawable/round_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/layout/login_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/layout/register_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/layout/register_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/App/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +94,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/App" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
   </component>
   <component name="SvnConfiguration">
@@ -76,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="873" y="359" key="#Notifications" timestamp="1608875134567">

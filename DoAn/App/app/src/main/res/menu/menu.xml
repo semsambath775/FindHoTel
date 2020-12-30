@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_login"
+        android:title="Đăng nhập"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/item_crud"
+        android:title="Nhập dữ liệu"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/item_exit"
+        android:title="Thoát"
+        app:showAsAction="collapseActionView" />
+</menu>

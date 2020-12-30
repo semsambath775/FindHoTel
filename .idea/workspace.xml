@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7c1c210-a737-4613-bf00-262577dbce84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/DetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/IndexActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/ResultSearchActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/adapter/RecentsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/adapter/TopHotelsAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/database/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/model/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/model/TopHotelsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/book_button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hinh15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/hotel_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/activity_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/activity_index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/activity_result_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/recent_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/top_hotels_row_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/menu/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/model/RecentsData.java" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/java/com/example/findhotel/model/RecentsData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_email.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_email.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_password.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_username.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/ic_username.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/round_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/round_bg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/round_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/drawable/round_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/login_activity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/register_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/layout/register_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoAn/App/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DoAn/App/app/src/main/res/values/themes.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mHYgKE7DVY0hOk2BGOWuFt5Ggs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7c1c210-a737-4613-bf00-262577dbce84" name="Default Changelist" comment="" />
+      <created>1609152093873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609152093873</updated>
+    </task>
+    <servers />
+  </component>
+</project>
